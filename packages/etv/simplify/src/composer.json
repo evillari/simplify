@@ -1,0 +1,14 @@
+{
+    "name": "etv/simplify",
+    "description": "Laravel Package for Simplify",
+    "type": "api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "efrenvillarico",
+            "email": "etv0609@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
